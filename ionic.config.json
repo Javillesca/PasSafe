@@ -1,0 +1,7 @@
+{
+  "name": "PasSafe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
